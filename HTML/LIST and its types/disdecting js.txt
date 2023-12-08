@@ -1,0 +1,11 @@
+const sk={
+                name:"sangeeth",
+                age:17,
+                
+                college:"skct",
+            };
+            const{name,college,age}=sk;
+            document.write('name:'+name+"<br>");
+            document.write('college:'+college+"<br>");
+            document.write('age:'+age+"<br>");
+ 

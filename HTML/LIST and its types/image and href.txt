@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+        <body>
+            <h1>List Example</h1>
+            <ol type="1">
+                
+            <li>List Item 1</li>
+            <ol type="A">
+                  <li> Nested item 1.1</li>
+                  <li> Nested item 1.2</li>
+                             </ol>
+                <li>List Item 2</li>                
+            <ol type="i">
+                   <li> Nested item 2.1 </li>
+                    <li> Nested item 2.2 </li>
+                             <ul type="square"> 
+                                  <li> Nested item 2.2.1 </li>
+                                  <li> Nested item 2.2.2 </li>
+                                    
+                            <ul type ="circle">
+                                  <li> Nested item 2.2.2.1 </li>
+                                  <li> Nested item 2.2.2.2 </li>
+                                                                   </ul >
+                          <li>Nested item 2.2.3 </li> 
+                                                     </ul>
+                          <li>Nested item 2.3</li>
+                                                    </ol>
+                     <li>List Item 3</li>                        
+                                         <ul type="disc">
+                                                <li> Item 1 </li>
+                                                <li> Item 2 </li>
+                                                <li> Item 3 </li>
+                                                                  </ul>
+                       </ol>
+                         <dl>
+                             <dt> COMP 376 </dt>
+                             <dd> Introduction to Game Programming </dd>
+                        
+                        </dl>
+                           <dl>
+                               <dt>Soen287</dt>
+                               <dd>Web Programming</dd>
+                                                       </dl>
+                            <dl>
+                               <dt> This is a <sup>5</sup>test <sub>9</sub> for Assignment 1.</dt> 
+                            </dl>
+                            <dl>
+                                <dt> <strong>Figure 1.</strong>  List illustartion in <b>HTML</b>  </dt>
+                            </dl>
+                            <ol>
+                                <li> <a href="https://cdn.wallpapersafari.com/99/13/dcnF6X.jpg"><b>this is the king </b></a></li>
+                                <li> <a href="https://th.bing.com/th/id/OIP.pHolS39ckgYZE5KyWiBNxAHaQD?w=122&h=184&c=7&r=0&o=5&dpr=1.3&pid=1.7">this is the face </a></li>
+                                <li> <a href="https://th.bing.com/th/id/OIP.sjU_7mQwhm9mKp6IfjIZqwHaLY?rs=1&pid=ImgDetMain">this is fighting </a></li>
+                            
+                            </ol>
+                            <ol>
+                                <img src ="https://th.bing.com/th/id/OIP.sjU_7mQwhm9mKp6IfjIZqwHaLY?rs=1&pid=ImgDetMain".height="10000" widght="1800">
+                                
+                                
+                                
+                            </ol>
+                            
+                            
+                            
+                            
+                            
+                    
+                    
+        
+                </body>
+                       </html>

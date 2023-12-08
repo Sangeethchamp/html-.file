@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>shesha</title>
+    </head>
+    <body>
+      <label>Name:</label>  
+      <input type="text"><br><br>
+      <label>Gender:</label>
+      <input type="radio">MALE
+      <input type="radio">FEMALE<br><br>
+      <label>Quata:</label>
+      <input type="checkbox">GQ
+      <input type="checkbox">MQ<br><br>
+      <label>PAGES:
+          <select>
+              <option>1</option>
+              <option>2</option>
+          </select>
+      </label> <br><br>
+      <label>Address:
+      <textarea rows="2" cols="20"></textarea></label><br><br>
+      <label for="games"> choose ur game</label>  
+      <input for ="game" name=" game " id="game">
+      <datalist id="game">
+          <option>cricket</option>
+          <option>vollyball</option>
+          <option>football</option><br><br>
+      </datalist>
+      <label></label>  
+      <label></label>  
+      <input type="Submit">  
+      
+    </body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>VK</title>
+    </head>
+    <body>
+        <form>
+            <select>
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+            </select>
+           <textarea rows="10" cols="20"></textarea>
+           <label for="browser">choose ur browser from the list:</label>
+           <input list="browsers" name="browser" id="browser">
+           <datalist id="browsers">
+               <option value="edge">
+               <option value="firefox">
+               <option value="chrome">
+               <option value="opera">
+               <option value="safari">
+             
+           </datalist>
+        </form>
+    </body>
+</html>

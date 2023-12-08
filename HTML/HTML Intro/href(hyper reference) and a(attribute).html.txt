@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <h2> the href attribute</h2>
+        <p> HTML links are defined with a tag .the linkaddress is specified in href</p>
+        <a href="https://www.amypo.com">visit amypo</a>
+        
+        
+        
+        
+        
+        
+        
+    </body>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</html>

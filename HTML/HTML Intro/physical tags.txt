@@ -1,0 +1,20 @@
+<!DOCTYPE>
+<html>
+<head>
+<title> SANGEETH code </title>
+</head>
+<body>
+<h1> testing </h1><br>
+<big>hello</big><br>
+<i> sangeeth</i><br>
+<em>sangeeth</em><br>
+<small>krishna</small><br>
+<sub>hi34</sub><br>
+<sup>hey22</sup><br>
+<tt>free</tt><br>
+<strong>sangeeth</strong><br>
+<b>hi dude</b><br>
+<u>sree</u><br>
+<hr>hey</hr><br>
+</body>
+</html>
